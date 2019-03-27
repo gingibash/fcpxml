@@ -1,0 +1,884 @@
+﻿{
+  "speakers" : [ {
+    "startTime" : "0.16",
+    "endTime" : "14.290000000000001",
+    "value" : "novinarka"
+  }, {
+    "startTime" : "14.37",
+    "endTime" : "59.089999999999996",
+    "value" : "kolinda"
+  }, {
+    "startTime" : "59.1",
+    "endTime" : "70.01",
+    "value" : "novinarka"
+  }, {
+    "startTime" : "70.02",
+    "endTime" : "93.16000000000001",
+    "value" : "kolinda"
+  }, {
+    "startTime" : "94.23",
+    "endTime" : "105.25",
+    "value" : "novinarka"
+  }, {
+    "startTime" : "105.3",
+    "endTime" : "133.71",
+    "value" : "kolinda"
+  } ],
+  "words" : [ {
+    "startTime" : "0.16",
+    "endTime" : "0.6",
+    "value" : "Predsjednica "
+  }, {
+    "startTime" : "4.38",
+    "endTime" : "4.9799999999999995",
+    "value" : "razriješili "
+  }, {
+    "startTime" : "5.13",
+    "endTime" : "5.82",
+    "value" : "dužnosti "
+  }, {
+    "startTime" : "5.82",
+    "endTime" : "6.390000000000001",
+    "value" : "savjetnika "
+  }, {
+    "startTime" : "6.39",
+    "endTime" : "6.51",
+    "value" : "za "
+  }, {
+    "startTime" : "6.51",
+    "endTime" : "6.96",
+    "value" : "unutarnju "
+  }, {
+    "startTime" : "6.96",
+    "endTime" : "7.5",
+    "value" : "politiku "
+  }, {
+    "startTime" : "7.90",
+    "endTime" : "8.4",
+    "value" : "sljedeća "
+  }, {
+    "startTime" : "8.49",
+    "endTime" : "8.97",
+    "value" : "četiri "
+  }, {
+    "startTime" : "8.97",
+    "endTime" : "9.39",
+    "value" : "godine "
+  }, {
+    "startTime" : "9.39",
+    "endTime" : "9.63",
+    "value" : "bio "
+  }, {
+    "startTime" : "9.63",
+    "endTime" : "9.74",
+    "value" : "je "
+  }, {
+    "startTime" : "10.02",
+    "endTime" : "10.83",
+    "value" : "najbliži "
+  }, {
+    "startTime" : "10.89",
+    "endTime" : "11.64",
+    "value" : "suradnik "
+  }, {
+    "startTime" : "11.64",
+    "endTime" : "11.97",
+    "value" : "čime "
+  }, {
+    "startTime" : "11.97",
+    "endTime" : "12.030000000000001",
+    "value" : "je "
+  }, {
+    "startTime" : "12.03",
+    "endTime" : "12.479999999999999",
+    "value" : "izigrao "
+  }, {
+    "startTime" : "12.48",
+    "endTime" : "12.75",
+    "value" : "vaše "
+  }, {
+    "startTime" : "12.75",
+    "endTime" : "13.41",
+    "value" : "povjerenje"
+  }, {
+    "startTime" : "13.41",
+    "endTime" : "14.290000000000001",
+    "value" : ". "
+  }, {
+    "startTime" : "14.37",
+    "endTime" : "14.58",
+    "value" : "Svako "
+  }, {
+    "startTime" : "14.58",
+    "endTime" : "14.94",
+    "value" : "vrijeme "
+  }, {
+    "startTime" : "14.94",
+    "endTime" : "15.33",
+    "value" : "traži "
+  }, {
+    "startTime" : "16.62",
+    "endTime" : "16.89",
+    "value" : "nova "
+  }, {
+    "startTime" : "16.89",
+    "endTime" : "17.55",
+    "value" : "rješenja"
+  }, {
+    "startTime" : "17.67",
+    "endTime" : "18.85",
+    "value" : ". "
+  }, {
+    "startTime" : "18.87",
+    "endTime" : "18.93",
+    "value" : "U "
+  }, {
+    "startTime" : "18.93",
+    "endTime" : "19.2",
+    "value" : "Novu "
+  }, {
+    "startTime" : "19.20",
+    "endTime" : "19.71",
+    "value" : "godinu "
+  }, {
+    "startTime" : "20.13",
+    "endTime" : "20.41",
+    "value" : "na "
+  }, {
+    "startTime" : "20.40",
+    "endTime" : "20.88",
+    "value" : "krilima "
+  }, {
+    "startTime" : "20.93",
+    "endTime" : "21.669999999999998",
+    "value" : "inicijativa "
+  }, {
+    "startTime" : "24.21",
+    "endTime" : "24.740000000000002",
+    "value" : "brendiranja "
+  }, {
+    "startTime" : "26.33",
+    "endTime" : "26.5",
+    "value" : "a "
+  }, {
+    "startTime" : "26.99",
+    "endTime" : "27.06",
+    "value" : "i "
+  }, {
+    "startTime" : "27.07",
+    "endTime" : "27.38",
+    "value" : "stoga "
+  }, {
+    "startTime" : "27.39",
+    "endTime" : "27.75",
+    "value" : "sam "
+  }, {
+    "startTime" : "27.81",
+    "endTime" : "28.439999999999998",
+    "value" : "imenovala "
+  }, {
+    "startTime" : "30.50",
+    "endTime" : "31.31",
+    "value" : "strateške "
+  }, {
+    "startTime" : "31.32",
+    "endTime" : "31.95",
+    "value" : "politike"
+  }, {
+    "startTime" : "33.76",
+    "endTime" : "34.269999999999996",
+    "value" : ". "
+  }, {
+    "startTime" : "35.01",
+    "endTime" : "35.37",
+    "value" : "želim "
+  }, {
+    "startTime" : "35.37",
+    "endTime" : "35.879999999999995",
+    "value" : "postići "
+  }, {
+    "startTime" : "35.97",
+    "endTime" : "36.6",
+    "value" : "sinergiju "
+  }, {
+    "startTime" : "36.60",
+    "endTime" : "37.02",
+    "value" : "između "
+  }, {
+    "startTime" : "37.02",
+    "endTime" : "37.68",
+    "value" : "unutarnje "
+  }, {
+    "startTime" : "37.68",
+    "endTime" : "37.78",
+    "value" : "i "
+  }, {
+    "startTime" : "37.78",
+    "endTime" : "38.04",
+    "value" : "vanjske "
+  }, {
+    "startTime" : "38.22",
+    "endTime" : "39.03",
+    "value" : "politike "
+  }, {
+    "startTime" : "40.32",
+    "endTime" : "40.74",
+    "value" : "i "
+  }, {
+    "startTime" : "41.64",
+    "endTime" : "42.33",
+    "value" : "sigurnosti"
+  }, {
+    "startTime" : "42.33",
+    "endTime" : "42.91",
+    "value" : ". "
+  }, {
+    "startTime" : "42.91",
+    "endTime" : "43.08",
+    "value" : "I "
+  }, {
+    "startTime" : "43.14",
+    "endTime" : "43.59",
+    "value" : "želim "
+  }, {
+    "startTime" : "43.59",
+    "endTime" : "43.81",
+    "value" : "ovu "
+  }, {
+    "startTime" : "43.81",
+    "endTime" : "44.190000000000005",
+    "value" : "godinu "
+  }, {
+    "startTime" : "44.19",
+    "endTime" : "44.849999999999994",
+    "value" : "obilježiti "
+  }, {
+    "startTime" : "45.57",
+    "endTime" : "46.47",
+    "value" : "inicijativama "
+  }, {
+    "startTime" : "46.86",
+    "endTime" : "47.07",
+    "value" : "koje "
+  }, {
+    "startTime" : "48.18",
+    "endTime" : "48.33",
+    "value" : "ću "
+  }, {
+    "startTime" : "48.33",
+    "endTime" : "49.089999999999996",
+    "value" : "pomagati "
+  }, {
+    "startTime" : "49.10",
+    "endTime" : "49.4",
+    "value" : "Vladi "
+  }, {
+    "startTime" : "49.44",
+    "endTime" : "49.919999999999995",
+    "value" : "Republike "
+  }, {
+    "startTime" : "50.76",
+    "endTime" : "51.3",
+    "value" : "Hrvatske "
+  }, {
+    "startTime" : "51.34",
+    "endTime" : "51.38",
+    "value" : "i "
+  }, {
+    "startTime" : "51.38",
+    "endTime" : "51.870000000000005",
+    "value" : "Hrvatskom "
+  }, {
+    "startTime" : "51.87",
+    "endTime" : "52.41",
+    "value" : "saboru "
+  }, {
+    "startTime" : "53.61",
+    "endTime" : "54.63",
+    "value" : "suočavanju "
+  }, {
+    "startTime" : "54.84",
+    "endTime" : "54.900000000000006",
+    "value" : "s "
+  }, {
+    "startTime" : "54.90",
+    "endTime" : "55.5",
+    "value" : "problemima "
+  }, {
+    "startTime" : "55.50",
+    "endTime" : "55.57",
+    "value" : "s "
+  }, {
+    "startTime" : "55.57",
+    "endTime" : "55.84",
+    "value" : "kojima "
+  }, {
+    "startTime" : "55.84",
+    "endTime" : "55.96",
+    "value" : "se "
+  }, {
+    "startTime" : "55.96",
+    "endTime" : "56.43",
+    "value" : "suočava "
+  }, {
+    "startTime" : "56.43",
+    "endTime" : "56.85",
+    "value" : "hrvatsko "
+  }, {
+    "startTime" : "56.85",
+    "endTime" : "57.36",
+    "value" : "društvo"
+  }, {
+    "startTime" : "58.43",
+    "endTime" : "59.089999999999996",
+    "value" : ". "
+  }, {
+    "startTime" : "59.10",
+    "endTime" : "59.58",
+    "value" : "Ostavku "
+  }, {
+    "startTime" : "59.58",
+    "endTime" : "59.67",
+    "value" : "je "
+  }, {
+    "startTime" : "59.67",
+    "endTime" : "60.06",
+    "value" : "dao "
+  }, {
+    "startTime" : "60.06",
+    "endTime" : "60.21",
+    "value" : "i "
+  }, {
+    "startTime" : "60.21",
+    "endTime" : "60.9",
+    "value" : "savjetnik "
+  }, {
+    "startTime" : "60.90",
+    "endTime" : "61.11",
+    "value" : "za "
+  }, {
+    "startTime" : "61.11",
+    "endTime" : "61.65",
+    "value" : "nacionalnu "
+  }, {
+    "startTime" : "61.65",
+    "endTime" : "62.28",
+    "value" : "sigurnost "
+  }, {
+    "startTime" : "62.28",
+    "endTime" : "62.85",
+    "value" : "Vlado "
+  }, {
+    "startTime" : "62.85",
+    "endTime" : "63.2",
+    "value" : "Galić"
+  }, {
+    "startTime" : "63.20",
+    "endTime" : "63.28",
+    "value" : ". "
+  }, {
+    "startTime" : "63.28",
+    "endTime" : "63.51",
+    "value" : "Sve "
+  }, {
+    "startTime" : "63.53",
+    "endTime" : "63.69",
+    "value" : "se "
+  }, {
+    "startTime" : "63.69",
+    "endTime" : "64.11",
+    "value" : "događa "
+  }, {
+    "startTime" : "64.11",
+    "endTime" : "64.44",
+    "value" : "nakon "
+  }, {
+    "startTime" : "64.44",
+    "endTime" : "65.03999999999999",
+    "value" : "izbijanja "
+  }, {
+    "startTime" : "65.04",
+    "endTime" : "65.64",
+    "value" : "afere"
+  }, {
+    "startTime" : "65.65",
+    "endTime" : "66.45",
+    "value" : ". "
+  }, {
+    "startTime" : "66.45",
+    "endTime" : "66.78",
+    "value" : "Kolika "
+  }, {
+    "startTime" : "66.78",
+    "endTime" : "66.84",
+    "value" : "je "
+  }, {
+    "startTime" : "66.84",
+    "endTime" : "67.23",
+    "value" : "njihova "
+  }, {
+    "startTime" : "67.23",
+    "endTime" : "67.92",
+    "value" : "umiješanost "
+  }, {
+    "startTime" : "67.92",
+    "endTime" : "67.98",
+    "value" : "u "
+  }, {
+    "startTime" : "67.98",
+    "endTime" : "68.19",
+    "value" : "tu "
+  }, {
+    "startTime" : "68.19",
+    "endTime" : "68.7",
+    "value" : "aferu"
+  }, {
+    "startTime" : "68.70",
+    "endTime" : "70.01",
+    "value" : ". "
+  }, {
+    "startTime" : "70.02",
+    "endTime" : "70.11",
+    "value" : "O "
+  }, {
+    "startTime" : "70.11",
+    "endTime" : "70.41",
+    "value" : "tome "
+  }, {
+    "startTime" : "70.41",
+    "endTime" : "70.71",
+    "value" : "sam "
+  }, {
+    "startTime" : "71.10",
+    "endTime" : "71.61",
+    "value" : "rekla "
+  }, {
+    "startTime" : "71.73",
+    "endTime" : "72.03",
+    "value" : "i "
+  }, {
+    "startTime" : "72.09",
+    "endTime" : "72.51",
+    "value" : "naravno "
+  }, {
+    "startTime" : "75.16",
+    "endTime" : "75.78",
+    "value" : "istražiti "
+  }, {
+    "startTime" : "75.78",
+    "endTime" : "76.53",
+    "value" : "institucije"
+  }, {
+    "startTime" : "76.53",
+    "endTime" : "76.85",
+    "value" : ". "
+  }, {
+    "startTime" : "76.86",
+    "endTime" : "77.13",
+    "value" : "Mislim "
+  }, {
+    "startTime" : "77.13",
+    "endTime" : "77.25",
+    "value" : "da "
+  }, {
+    "startTime" : "77.25",
+    "endTime" : "77.37",
+    "value" : "bi "
+  }, {
+    "startTime" : "77.37",
+    "endTime" : "77.61",
+    "value" : "bilo "
+  }, {
+    "startTime" : "77.61",
+    "endTime" : "78.3",
+    "value" : "nekorektno "
+  }, {
+    "startTime" : "78.30",
+    "endTime" : "78.99",
+    "value" : "govoriti "
+  }, {
+    "startTime" : "79.08",
+    "endTime" : "79.2",
+    "value" : "o "
+  }, {
+    "startTime" : "79.20",
+    "endTime" : "80.07000000000001",
+    "value" : "savjetnicima "
+  }, {
+    "startTime" : "80.07",
+    "endTime" : "80.13999999999999",
+    "value" : "u "
+  }, {
+    "startTime" : "80.14",
+    "endTime" : "80.38",
+    "value" : "njihovo "
+  }, {
+    "startTime" : "80.38",
+    "endTime" : "80.49",
+    "value" : "ime"
+  }, {
+    "startTime" : "80.55",
+    "endTime" : "81.59",
+    "value" : ". "
+  }, {
+    "startTime" : "81.60",
+    "endTime" : "81.92999999999999",
+    "value" : "Jesu "
+  }, {
+    "startTime" : "81.93",
+    "endTime" : "82.02000000000001",
+    "value" : "li "
+  }, {
+    "startTime" : "82.02",
+    "endTime" : "82.32",
+    "value" : "vaši "
+  }, {
+    "startTime" : "82.32",
+    "endTime" : "83.03999999999999",
+    "value" : "savjetnici "
+  }, {
+    "startTime" : "83.04",
+    "endTime" : "83.55000000000001",
+    "value" : "rušili "
+  }, {
+    "startTime" : "83.55",
+    "endTime" : "84.24",
+    "value" : "premijera "
+  }, {
+    "startTime" : "84.24",
+    "endTime" : "84.36",
+    "value" : "i "
+  }, {
+    "startTime" : "84.36",
+    "endTime" : "85.32",
+    "value" : "pripremali "
+  }, {
+    "startTime" : "85.65",
+    "endTime" : "85.98",
+    "value" : "teren "
+  }, {
+    "startTime" : "85.98",
+    "endTime" : "86.10000000000001",
+    "value" : "za "
+  }, {
+    "startTime" : "86.10",
+    "endTime" : "86.78",
+    "value" : "preuzimanje "
+  }, {
+    "startTime" : "86.82",
+    "endTime" : "87.36",
+    "value" : "HDZ "
+  }, {
+    "startTime" : "87.54",
+    "endTime" : "87.75",
+    "value" : "a"
+  }, {
+    "startTime" : "87.75",
+    "endTime" : "87.75",
+    "value" : ". "
+  }, {
+    "startTime" : "90.33",
+    "endTime" : "90.45",
+    "value" : "O "
+  }, {
+    "startTime" : "90.45",
+    "endTime" : "90.69",
+    "value" : "tome "
+  }, {
+    "startTime" : "91.10",
+    "endTime" : "91.44999999999999",
+    "value" : "rekla"
+  }, {
+    "startTime" : "91.79",
+    "endTime" : "93.16000000000001",
+    "value" : ". "
+  }, {
+    "startTime" : "94.23",
+    "endTime" : "94.86",
+    "value" : "Kritičari "
+  }, {
+    "startTime" : "94.86",
+    "endTime" : "95.04",
+    "value" : "će "
+  }, {
+    "startTime" : "95.04",
+    "endTime" : "95.79",
+    "value" : "kazati "
+  }, {
+    "startTime" : "95.79",
+    "endTime" : "96.09",
+    "value" : "da "
+  }, {
+    "startTime" : "96.83",
+    "endTime" : "97.13",
+    "value" : "se "
+  }, {
+    "startTime" : "97.37",
+    "endTime" : "97.66000000000001",
+    "value" : "svojih "
+  }, {
+    "startTime" : "97.67",
+    "endTime" : "98.46000000000001",
+    "value" : "savjetnika "
+  }, {
+    "startTime" : "98.46",
+    "endTime" : "98.82",
+    "value" : "kako "
+  }, {
+    "startTime" : "98.82",
+    "endTime" : "99.05999999999999",
+    "value" : "bi "
+  }, {
+    "startTime" : "99.06",
+    "endTime" : "99.42",
+    "value" : "bez "
+  }, {
+    "startTime" : "99.42",
+    "endTime" : "99.75",
+    "value" : "nekog "
+  }, {
+    "startTime" : "99.75",
+    "endTime" : "100.26",
+    "value" : "tereta "
+  }, {
+    "startTime" : "100.53",
+    "endTime" : "101.07000000000001",
+    "value" : "ušli "
+  }, {
+    "startTime" : "101.07",
+    "endTime" : "101.22",
+    "value" : "u "
+  }, {
+    "startTime" : "101.22",
+    "endTime" : "101.55",
+    "value" : "bitku "
+  }, {
+    "startTime" : "101.55",
+    "endTime" : "101.67",
+    "value" : "za "
+  }, {
+    "startTime" : "101.67",
+    "endTime" : "101.94",
+    "value" : "drugi "
+  }, {
+    "startTime" : "101.94",
+    "endTime" : "102.33",
+    "value" : "mandat "
+  }, {
+    "startTime" : "102.33",
+    "endTime" : "102.44",
+    "value" : "ali "
+  }, {
+    "startTime" : "102.45",
+    "endTime" : "102.49000000000001",
+    "value" : "i "
+  }, {
+    "startTime" : "102.51",
+    "endTime" : "102.78",
+    "value" : "kako "
+  }, {
+    "startTime" : "102.78",
+    "endTime" : "102.9",
+    "value" : "bi "
+  }, {
+    "startTime" : "102.90",
+    "endTime" : "103.29",
+    "value" : "dobili "
+  }, {
+    "startTime" : "103.29",
+    "endTime" : "103.89",
+    "value" : "potporu "
+  }, {
+    "startTime" : "103.89",
+    "endTime" : "104.47",
+    "value" : "HDZ "
+  }, {
+    "startTime" : "104.65",
+    "endTime" : "104.78",
+    "value" : "a"
+  }, {
+    "startTime" : "104.85",
+    "endTime" : "105.25",
+    "value" : ". "
+  }, {
+    "startTime" : "105.30",
+    "endTime" : "105.42",
+    "value" : "To "
+  }, {
+    "startTime" : "105.42",
+    "endTime" : "105.63",
+    "value" : "nije "
+  }, {
+    "startTime" : "105.63",
+    "endTime" : "106.14",
+    "value" : "točno"
+  }, {
+    "startTime" : "106.14",
+    "endTime" : "106.65",
+    "value" : ". "
+  }, {
+    "startTime" : "106.69",
+    "endTime" : "106.89",
+    "value" : "Moj "
+  }, {
+    "startTime" : "106.89",
+    "endTime" : "107.4",
+    "value" : "savjetnike "
+  }, {
+    "startTime" : "108.40",
+    "endTime" : "108.74000000000001",
+    "value" : "je "
+  }, {
+    "startTime" : "108.80",
+    "endTime" : "109.41",
+    "value" : "određivao "
+  }, {
+    "startTime" : "109.44",
+    "endTime" : "109.73",
+    "value" : "oni "
+  }, {
+    "startTime" : "109.84",
+    "endTime" : "110.15",
+    "value" : "traže "
+  }, {
+    "startTime" : "111.28",
+    "endTime" : "111.72",
+    "value" : "smjenu "
+  }, {
+    "startTime" : "112.14",
+    "endTime" : "112.26",
+    "value" : "pa "
+  }, {
+    "startTime" : "112.26",
+    "endTime" : "112.56",
+    "value" : "tako "
+  }, {
+    "startTime" : "112.56",
+    "endTime" : "112.77",
+    "value" : "ni "
+  }, {
+    "startTime" : "112.77",
+    "endTime" : "113.19",
+    "value" : "premijer "
+  }, {
+    "startTime" : "113.19",
+    "endTime" : "113.89999999999999",
+    "value" : "Plenković "
+  }, {
+    "startTime" : "115.88",
+    "endTime" : "116.42999999999999",
+    "value" : "kadrovskog "
+  }, {
+    "startTime" : "118.20",
+    "endTime" : "118.34",
+    "value" : "u "
+  }, {
+    "startTime" : "118.68",
+    "endTime" : "119.19000000000001",
+    "value" : "njegovu "
+  }, {
+    "startTime" : "120.09",
+    "endTime" : "120.4",
+    "value" : "riječ "
+  }, {
+    "startTime" : "120.42",
+    "endTime" : "120.48",
+    "value" : "o "
+  }, {
+    "startTime" : "120.48",
+    "endTime" : "120.87",
+    "value" : "tome "
+  }, {
+    "startTime" : "120.87",
+    "endTime" : "121.29",
+    "value" : "da "
+  }, {
+    "startTime" : "121.89",
+    "endTime" : "122.31",
+    "value" : "kroz "
+  }, {
+    "startTime" : "122.52",
+    "endTime" : "122.75999999999999",
+    "value" : "ove "
+  }, {
+    "startTime" : "122.76",
+    "endTime" : "123.12",
+    "value" : "četiri "
+  }, {
+    "startTime" : "123.12",
+    "endTime" : "123.69",
+    "value" : "godine "
+  }, {
+    "startTime" : "124.58",
+    "endTime" : "125.11",
+    "value" : "dosada "
+  }, {
+    "startTime" : "125.52",
+    "endTime" : "126",
+    "value" : "otišlo "
+  }, {
+    "startTime" : "126.00",
+    "endTime" : "126.57",
+    "value" : "nekoliko "
+  }, {
+    "startTime" : "126.57",
+    "endTime" : "126.89999999999999",
+    "value" : "ljudi"
+  }, {
+    "startTime" : "126.91",
+    "endTime" : "127.81",
+    "value" : ". "
+  }, {
+    "startTime" : "128.07",
+    "endTime" : "128.64",
+    "value" : "Jednostavno "
+  }, {
+    "startTime" : "128.64",
+    "endTime" : "129.05999999999997",
+    "value" : "zato "
+  }, {
+    "startTime" : "129.06",
+    "endTime" : "129.48",
+    "value" : "što "
+  }, {
+    "startTime" : "129.74",
+    "endTime" : "130.02",
+    "value" : "neki "
+  }, {
+    "startTime" : "130.02",
+    "endTime" : "130.14000000000001",
+    "value" : "su "
+  }, {
+    "startTime" : "130.14",
+    "endTime" : "130.76999999999998",
+    "value" : "tražili "
+  }, {
+    "startTime" : "130.90",
+    "endTime" : "131.28",
+    "value" : "šansu "
+  }, {
+    "startTime" : "131.37",
+    "endTime" : "131.67000000000002",
+    "value" : "negdje "
+  }, {
+    "startTime" : "131.67",
+    "endTime" : "132.1",
+    "value" : "drugdje"
+  }, {
+    "startTime" : "132.10",
+    "endTime" : "132.35999999999999",
+    "value" : ". "
+  }, {
+    "startTime" : "132.36",
+    "endTime" : "132.70000000000002",
+    "value" : "Potičem "
+  }, {
+    "startTime" : "132.70",
+    "endTime" : "133",
+    "value" : "svake "
+  }, {
+    "startTime" : "133.08",
+    "endTime" : "133.71",
+    "value" : "ambicije "
+  } ]
+}

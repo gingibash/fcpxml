@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE fcpxml>
+
+<!--automatski se ubaci mp4 referentne kobasice-->
+
+<fcpxml version="1.8">
+	<resources>
+
+		<!--compound clip-->
+		<format id="r1" name="FFVideoFormat1080p25" frameDuration="100/2500s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
+		<media id="r2" name="kobasica Clip" uid="rmmZ4Z86TbyahQNvEKzAoQ" modDate="2019-03-27 12:34:50 +0100">
+			<sequence duration="3060000/25000s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+				<spine>
+					<asset-clip name="clip-1" offset="0s" ref="r3" duration="168000/25000s" start="1697138000/25000s" audioRole="dialogue" tcFormat="NDF">
+						<asset-clip name="avs-referentna-kobasica" lane="1" offset="1697138/25s" ref="r4" duration="3060/25s" audioRole="dialogue" format="r5" tcFormat="NDF"/>
+					</asset-clip>
+					<asset-clip name="clip-2" offset="168000/25000s" ref="r6" duration="216000/25000s" start="1697306000/25000s" audioRole="dialogue" tcFormat="NDF"/>
+					<asset-clip name="clip-3" offset="384000/25000s" ref="r7" duration="2448000/25000s" start="1697522000/25000s" audioRole="dialogue" tcFormat="NDF"/>
+					<asset-clip name="clip-4" offset="2832000/25000s" ref="r8" duration="228000/25000s" start="1699970000/25000s" audioRole="dialogue" tcFormat="NDF"/>
+				</spine>
+			</sequence>
+		</media>
+		<asset id="r3" name="clip-1" uid="7AF2D8988C90941A5040E72190A5FC86" src="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/27-03-2019/Original%20Media/clip-1.mp4" start="1697138000/25000s" duration="168000/25000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"/>
+		<asset id="r6" name="clip-2" uid="353F41C0A6DEFD2A9CD579791444B326" src="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/27-03-2019/Original%20Media/clip-2.mp4" start="1697306000/25000s" duration="216000/25000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"/>
+		<asset id="r7" name="clip-3" uid="8A8884AF1F9CAD58826C2F71120E2CBE" src="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/27-03-2019/Original%20Media/clip-3.mp4" start="1697522000/25000s" duration="2448000/25000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"/>
+		<asset id="r8" name="clip-4" uid="A756C407117B0E4B6E6C2745B935AC48" src="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/27-03-2019/Original%20Media/clip-4.mp4" start="1699970000/25000s" duration="228000/25000s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000"/>
+		<!--end compund clip-->
+
+		<!--kobasica-->
+		<format id="r5" name="FFVideoFormat960x540p25" frameDuration="1/25s" width="960" height="540" colorSpace="1-1-1 (Rec. 709)"/>
+		<asset id="r4" name="avs-referentna-kobasica" uid="AC8A37B340A8DA36A27007046443B262" src="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/avs-referentna-kobasica.m4v" start="0s" duration="3060/25s" hasVideo="1" format="r5" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+			<bookmark>Ym9va0QDAAAAAAQQMAAAANxMmW/glZCeRlRB/G7YVXoZRo4kW0syHUoz8r0XPzssQAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAADAAAAAQEAAGJnegAJAAAAAQEAAERvY3VtZW50cwAAAAwAAAABAQAATXkgRG9jdW1lbnRzCwAAAAEBAAAwMi1Qcm9qZWN0cwAIAAAAAQEAAGZjcHgteG1sGwAAAAEBAABhdnMtcmVmZXJlbnRuYS1rb2Jhc2ljYS5tNHYAHAAAAAEGAAAQAAAAIAAAACwAAABAAAAAVAAAAGgAAAB4AAAACAAAAAQDAABunAoAAAAAAAgAAAAEAwAAFEILAAAAAAAIAAAABAMAABoaLwAAAAAACAAAAAQDAADpjpMAAAAAAAgAAAAEAwAASQKZAAAAAAAIAAAABAMAAE9WlAAAAAAACAAAAAQDAACFTZkAAAAAABwAAAABBgAAwAAAANAAAADgAAAA8AAAAAABAAAQAQAAIAEAAAgAAAAABAAAQcElX0sAAAAYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vCAAAAAEBAABCR3pNYWNIRAgAAAAEAwAAALBgbnQAAAAIAAAAAAQAAEHAxP4pJTeyJAAAAAEBAABGNTUyQjRBRS1FOENBLTQ1MTgtQUE0Mi1FREFGRTY2MTk4MDUYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAnAAAAAAAAAAFEAAAMAEAAAAAAAAQEAAAZAEAAAAAAABAEAAAVAEAAAAAAAACIAAALAIAAAAAAAAFIAAAoAEAAAAAAAAQIAAAsAEAAAAAAAARIAAA4AEAAAAAAAASIAAAwAEAAAAAAAATIAAA0AEAAAAAAAAgIAAADAIAAAAAAAAwIAAAOAIAAAAAAAABwAAAhAEAAAAAAAARwAAAIAAAAAAAAAASwAAAlAEAAAAAAAAQ0AAABAAAAAAAAAA=</bookmark>
+		</asset>
+		<!--end kobasica-->
+	</resources>
+
+	<!-- i library odjebavamo, krećemo od eventa jer prilikom finalnog importa u fcpx želimo biti u montažerovom libraryiju i dirati samo naše evente-->
+	<library location="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/">
+<!--ovo još uvijek nemamo-->
+		<!--<event name="27-03-2019" uid="D55553DE-F7DB-4EF5-AE48-928B8886DDFF">-->
+			<!--<project name="kobasica" uid="AECC796F-E48D-43EE-83C1-689C3358716C" modDate="2019-03-27 12:34:50 +0100">-->
+				<!--<sequence duration="306000/2500s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">-->
+					<!--<spine>-->
+						<!--<ref-clip name="kobasica Clip" offset="0s" ref="r2" duration="306000/2500s"/>-->
+					<!--</spine>-->
+				<!--</sequence>-->
+			<!--</project>-->
+		<!--</event>-->
+
+		<smart-collection name="Projects" match="all">
+			<match-clip rule="is" type="project"/>
+		</smart-collection>
+		<smart-collection name="All Video" match="any">
+			<match-media rule="is" type="videoOnly"/>
+			<match-media rule="is" type="videoWithAudio"/>
+		</smart-collection>
+		<smart-collection name="Audio Only" match="all">
+			<match-media rule="is" type="audioOnly"/>
+		</smart-collection>
+		<smart-collection name="Stills" match="all">
+			<match-media rule="is" type="stills"/>
+		</smart-collection>
+		<smart-collection name="Favorites" match="all">
+			<match-ratings value="favorites"/>
+		</smart-collection>
+	</library>
+</fcpxml>

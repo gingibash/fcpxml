@@ -28,7 +28,6 @@
 	<event name="avs_event_name">
 		<project name="avs_project_name">
 
-
 			<!--
 			duration 	zbroj trajanja svih elemenata
 			format		referira se na id formata iz <resources>
@@ -67,7 +66,6 @@
 							</text-style-def>
 						</title>
 					</asset-clip>
-
 					<gap offset="21500/2500s" duration="12200/2500s" start="36000s">
 						<title name="svoje radove predstavili su" lane="1" offset="36000s" ref="r3" duration="12200/2500s" start="3600s">
 							<param name="Position" key="9999/999166631/999166633/1/100/101" value="-530.142 418.95"/>
@@ -124,5 +122,4 @@
 			</sequence>
 		</project>
 	</event>
-
 </fcpxml>

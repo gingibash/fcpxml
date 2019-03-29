@@ -1,6 +1,6 @@
-#import u avscript
+# import u avscript
 
-##scenario 1 - media bin / multi clip
+## scenario 1 - media bin / multi clip
 
 1. snimatelj, montažer ili novinar, u projekt, uploadaju jedan ili više clipova
 2. clipovi idu u projektni media bin
@@ -12,7 +12,7 @@
 [primjer XML](https://github.com/gingibash/fcpxml/blob/master/import/scenario-1.xml)
 
 ---
-##scenario 2 - compound clip
+## scenario 2 - compound clip
 1. snimatelj/montažer pravi 
     1.  compound clip u fcpx-u
     1.  XML export iz fcpx 
@@ -31,7 +31,7 @@
 
 
 
-#####[Time value attributes](https://developer.apple.com/library/archive/documentation/FinalCutProX/Reference/FinalCutProXXMLFormat/StoryElements/StoryElements.html#//apple_ref/doc/uid/TP40011227-CH13-SW2)
+##### [Time value attributes](https://developer.apple.com/library/archive/documentation/FinalCutProX/Reference/FinalCutProXXMLFormat/StoryElements/StoryElements.html#//apple_ref/doc/uid/TP40011227-CH13-SW2)
 
 Attribute | Description
 ------ | ------

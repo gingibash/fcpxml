@@ -5,10 +5,10 @@
 			<spine>
 				<!--
 				offset		prvi element kreće od 0
-				ref			referenca na element u <resources>
+				ref		referenca na element u <resources>
 				duration	trajanje u sekundama (out_frame - in frame) / frame_rate
-							out_frame = to_millisecond / 1000 * 25
-							in_frame = from_millisecond / 1000 * 25
+						out_frame = to_millisecond / 1000 * 25
+						in_frame = from_millisecond / 1000 * 25
 				start		vrijeme u sekundama - in_frame / frame_rate
 				-->
 				<ref-clip offset="0s" ref="r2" duration="21500/2500s" start="16800/2500s">

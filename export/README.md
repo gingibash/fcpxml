@@ -1,6 +1,6 @@
-#export iz avscript
+# export iz avscript
 
-##scenario 1 - media bin / multi clip
+## scenario 1 - media bin / multi clip
 1. uzimamo spremljeni ``<resources>`` iz import koraka
 2. kreiramo 
 ```
@@ -13,7 +13,7 @@
 
 [primjer zaglavlja XMLa](https://github.com/gingibash/fcpxml/blob/master/export/scenario-1.xml)
 
-##scenario 2 - compound clip
+## scenario 2 - compound clip
 1. uzimamo spremljeni ``<resources>`` iz import koraka - neophodan nam je kako bi sačuvali compound clip za fcpx
     1.  unutar `<resources>` konstruiramo `<effect>` i dajemo mu `id`
 2. kreiramo 

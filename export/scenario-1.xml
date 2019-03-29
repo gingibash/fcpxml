@@ -4,7 +4,7 @@
 	<project name="avs_project_name" modDate="2019-03-27 14:30:46 +0100">
 
 		<!--
-		duration 	zbroj trajanja svih elemenata
+		duration	zbroj trajanja svih elemenata
 		format		referira se na id formata iz <resources>
 		-->
 		<sequence duration="1891000/25000s" format="r1" tcStart="0s" audioLayout="stereo" audioRate="48k">
@@ -12,10 +12,10 @@
 
 				<!--
 				offset		prvi element kreće od 0
-				ref			referenca na element u <resources>
+				ref		referenca na element u <resources>
 				duration	trajanje u sekundama (out_frame - in frame) / frame_rate
-							out_frame = to_millisecond / 1000 * 25
-							in_frame = from_millisecond / 1000 * 25
+						out_frame = to_millisecond / 1000 * 25
+						in_frame = from_millisecond / 1000 * 25
 				start		vrijeme u sekundama - in_frame / frame_rate
 				-->
 				<asset-clip name="clip-1" offset="0s" ref="r2" duration="41000/25000s" start="1697138000/25000s">
@@ -24,17 +24,17 @@
 					name
 					lane	kreće od 1 i da ima neki drugi <title> ili <effect> išli bi u lane 2,3,..
 					offset	je početno vrijeme parent elementa, u ovom slučaju <asset-clip>, lokalno vrijeme
-					ref		referira se na <resources><effect>
+					ref	referira se na <resources><effect>
 					-->
 					<title name="ovdje slažu scenu" lane="1" offset="1697138/25s" ref="r3" duration="4100/2500s" start="3600s">
 						<!--
 							param name i key se nalaze unutar .moti fajlova, vidi <resources><effect>
 						-->
 						<!--
-						id				unique id
-						name			samo kopiraš, za sada
-						key				samo kopiraš, za sada
-						value			koordinate unutar framea
+						id	unique id
+						name	samo kopiraš, za sada
+						key	samo kopiraš, za sada
+						value	koordinate unutar framea
 						-->
 						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
 						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>

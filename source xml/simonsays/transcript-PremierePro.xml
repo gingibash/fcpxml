@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmeml version="5">
+    <sequence id="sequence-0">
+        <uuid>a85ead32-2990-4f54-94ac-2db7196bee8d</uuid>
+        <duration>3356.0</duration>
+        <rate>
+            <timebase>25</timebase>
+            <ntsc>FALSE</ntsc>
+        </rate>
+        <timecode>
+            <rate>
+                <timebase>25</timebase>
+                <ntsc>FALSE</ntsc>
+            </rate>
+            <string>00:00:00:00</string>
+            <frame>0</frame>
+            <displayformat>NDF</displayformat>
+        </timecode>
+        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p</name>
+        <media>
+            <video>
+                <format>
+                    <samplecharacteristics>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <width>640</width>
+                        <height>360</height>
+                        <anamorphic>FALSE</anamorphic>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <fielddominance>none</fielddominance>
+                    </samplecharacteristics>
+                </format>
+                <track>
+                    <clipitem id="clipitem-0">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>4.0</in>
+                        <out>357.25</out>
+                        <start>4.0</start>
+                        <end>357.25</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884">
+                            <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                            <pathurl>y2mate.com+-+kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</pathurl>
+                            <rate>
+<timebase>25</timebase>
+<ntsc>FALSE</ntsc>
+                            </rate>
+                            <duration>3356.0</duration>
+                            <timecode>
+<rate>
+    <timebase>25</timebase>
+    <ntsc>FALSE</ntsc>
+</rate>
+<string>00:00:00:00</string>
+<frame>0</frame>
+<displayformat>NDF</displayformat>
+                            </timecode>
+                            <media>
+<video>
+    <samplecharacteristics>
+        <rate>
+            <timebase>25</timebase>
+            <ntsc>FALSE</ntsc>
+        </rate>
+        <width>640</width>
+        <height>360</height>
+        <anamorphic>FALSE</anamorphic>
+        <pixelaspectratio>square</pixelaspectratio>
+        <fielddominance>none</fielddominance>
+    </samplecharacteristics>
+</video>
+<audio>
+    <samplecharacteristics>
+        <depth>16</depth>
+        <samplerate>44100</samplerate>
+    </samplecharacteristics>
+    <channelcount>2</channelcount>
+</audio>
+                            </media>
+                        </file>
+                    </clipitem>
+                    <clipitem id="clipitem-1">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>359.25</in>
+                        <out>1477.25</out>
+                        <start>359.25</start>
+                        <end>1477.25</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-2">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>1477.5</in>
+                        <out>1750.2500000000002</out>
+                        <start>1477.5</start>
+                        <end>1750.2500000000002</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-3">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>1750.5</in>
+                        <out>2329.0000000000005</out>
+                        <start>1750.5</start>
+                        <end>2329.0000000000005</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-4">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>2355.75</in>
+                        <out>2631.25</out>
+                        <start>2355.75</start>
+                        <end>2631.25</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-5">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>2632.5</in>
+                        <out>3342.75</out>
+                        <start>2632.5</start>
+                        <end>3342.75</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <enabled>TRUE</enabled>
+                    <locked>FALSE</locked>
+                </track>
+            </video>
+            <audio>
+                <format>
+                    <samplecharacteristics>
+                        <depth>16</depth>
+                        <samplerate>44100</samplerate>
+                    </samplecharacteristics>
+                </format>
+                <track>
+                    <clipitem id="clipitem-6">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>4.0</in>
+                        <out>357.25</out>
+                        <start>4.0</start>
+                        <end>357.25</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-7">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>359.25</in>
+                        <out>1477.25</out>
+                        <start>359.25</start>
+                        <end>1477.25</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-8">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>1477.5</in>
+                        <out>1750.2500000000002</out>
+                        <start>1477.5</start>
+                        <end>1750.2500000000002</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-9">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>1750.5</in>
+                        <out>2329.0000000000005</out>
+                        <start>1750.5</start>
+                        <end>2329.0000000000005</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-10">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>2355.75</in>
+                        <out>2631.25</out>
+                        <start>2355.75</start>
+                        <end>2631.25</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <clipitem id="clipitem-11">
+                        <masterclipid>master-clip-1</masterclipid>
+                        <name>y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v</name>
+                        <enabled>TRUE</enabled>
+                        <duration>3356.0</duration>
+                        <rate>
+                            <timebase>25</timebase>
+                            <ntsc>FALSE</ntsc>
+                        </rate>
+                        <in>2632.5</in>
+                        <out>3342.75</out>
+                        <start>2632.5</start>
+                        <end>3342.75</end>
+                        <alphatype>none</alphatype>
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <anamorphic>FALSE</anamorphic>
+                        <file id="file-64884"/>
+                    </clipitem>
+                    <enabled>TRUE</enabled>
+                    <locked>FALSE</locked>
+                </track>
+            </audio>
+        </media>
+        <marker>
+            <name>novinarka</name>
+            <comment>Predsjednica razriješili dužnosti savjetnika za unutarnju politiku sljedeća četiri godine bio je najbliži suradnik čime je izigrao vaše povjerenje. </comment>
+            <in>4.0</in>
+            <out>357.25</out>
+        </marker>
+        <marker>
+            <name>kolinda</name>
+            <comment>Svako vrijeme traži nova rješenja. U Novu godinu na krilima inicijativa brendiranja a i stoga sam imenovala strateške politike. želim postići sinergiju između unutarnje i vanjske politike i sigurnosti. I želim ovu godinu obilježiti inicijativama koje ću pomagati Vladi Republike Hrvatske i Hrvatskom saboru suočavanju s problemima s kojima se suočava hrvatsko društvo. </comment>
+            <in>359.25</in>
+            <out>1477.25</out>
+        </marker>
+        <marker>
+            <name>novinarka</name>
+            <comment>Ostavku je dao i savjetnik za nacionalnu sigurnost Vlado Galić. Sve se događa nakon izbijanja afere. Kolika je njihova umiješanost u tu aferu. </comment>
+            <in>1477.5</in>
+            <out>1750.2500000000002</out>
+        </marker>
+        <marker>
+            <name>kolinda</name>
+            <comment>O tome sam rekla i naravno istražiti institucije. Mislim da bi bilo nekorektno govoriti o savjetnicima u njihovo ime. Jesu li vaši savjetnici rušili premijera i pripremali teren za preuzimanje HDZ a. O tome rekla. </comment>
+            <in>1750.5</in>
+            <out>2329.0000000000005</out>
+        </marker>
+        <marker>
+            <name>novinarka</name>
+            <comment>Kritičari će kazati da se svojih savjetnika kako bi bez nekog tereta ušli u bitku za drugi mandat ali i kako bi dobili potporu HDZ a. </comment>
+            <in>2355.75</in>
+            <out>2631.25</out>
+        </marker>
+        <marker>
+            <name>kolinda</name>
+            <comment>To nije točno. Moj savjetnike je određivao oni traže smjenu pa tako ni premijer Plenković kadrovskog u njegovu riječ o tome da kroz ove četiri godine dosada otišlo nekoliko ljudi. Jednostavno zato što neki su tražili šansu negdje drugdje. Potičem svake ambicije </comment>
+            <in>2632.5</in>
+            <out>3342.75</out>
+        </marker>
+    </sequence>
+</xmeml>

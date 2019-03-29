@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fcpxml version="1.8">
+  <resources>
+    <asset id="r3" name="y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v" src="y2mate.com%20-%20kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v" duration="3356/25s" start="0/1s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="44100" format="r2" hasVideo="1"/>
+    <format frameDuration="100/2500s" name="FFVideoFormat720p2997" id="r1"/>
+    <format frameDuration="100/2500s" name="FFVideoFormat720p2997" id="r2"/>
+  </resources>
+  <asset-clip name="y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v" ref="r3" format="r2" duration="3356/25s" audioRole="dialogue" start="0/1s">
+    <keyword duration="1118/25s" note="Svako vrijeme traži nova rješenja. U Novu godinu na krilima inicijativa brendiranja a i stoga sam imenovala strateške politike. želim postići sinergiju između unutarnje i vanjske politike i sigurnosti. I želim ovu godinu obilježiti inicijativama koje ću pomagati Vladi Republike Hrvatske i Hrvatskom saboru suočavanju s problemima s kojima se suočava hrvatsko društvo. " start="1437/100s" value="kolinda"/>
+    <keyword duration="1157/50s" note="O tome sam rekla i naravno istražiti institucije. Mislim da bi bilo nekorektno govoriti o savjetnicima u njihovo ime. Jesu li vaši savjetnici rušili premijera i pripremali teren za preuzimanje HDZ a. O tome rekla. " start="3501/50s" value="kolinda"/>
+    <rating start="1437/100s" duration="1118/25s" note="Svako vrijeme traži nova rješenja. U Novu godinu na krilima inicijativa brendiranja a i stoga sam imenovala strateške politike. želim postići sinergiju između unutarnje i vanjske politike i sigurnosti. I želim ovu godinu obilježiti inicijativama koje ću pomagati Vladi Republike Hrvatske i Hrvatskom saboru suočavanju s problemima s kojima se suočava hrvatsko društvo. " value="favorite"/>
+    <rating start="3501/50s" duration="1157/50s" note="O tome sam rekla i naravno istražiti institucije. Mislim da bi bilo nekorektno govoriti o savjetnicima u njihovo ime. Jesu li vaši savjetnici rušili premijera i pripremali teren za preuzimanje HDZ a. O tome rekla. " value="favorite"/>
+  </asset-clip>
+</fcpxml>

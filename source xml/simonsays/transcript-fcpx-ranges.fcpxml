@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fcpxml version="1.8">
+  <resources>
+    <asset id="r3" name="y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v" src="y2mate.com%20-%20kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v" duration="3356/25s" start="0/1s" hasAudio="1" audioSources="1" audioChannels="2" audioRate="44100" format="r2" hasVideo="1"/>
+    <format frameDuration="100/2500s" name="FFVideoFormat720p2997" id="r1"/>
+    <format frameDuration="100/2500s" name="FFVideoFormat720p2997" id="r2"/>
+  </resources>
+  <project name="y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v">
+    <sequence format="r1" duration="3356/25s" tcStart="0/1s">
+      <spine>
+        <asset-clip name="y2mate.com - kolinda_grabar_kitarovi_ekskluzivno_za_hrt_o_smjenama_i_odnosima_s_vladom_xcUu-ePeTkc_360p.m4v" ref="r3" format="r2" duration="3356/25s" audioRole="dialogue" start="0/1s">
+          <caption duration="29/4s" lane="1" name="kolinda: Svako vrijeme traži nova rješenja.&#xA;U Novu godinu na krilima inicijativa" offset="1437/100s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_0">kolinda: Svako vrijeme traži nova rješenja.
+U Novu godinu na krilima inicijativa</text-style>
+            </text>
+            <text-style-def id="ts0_0">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="617/50s" lane="1" name="brendiranja a i stoga sam imenovala&#xA;strateške politike. želim postići sinergiju" offset="2421/100s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_1">brendiranja a i stoga sam imenovala
+strateške politike. želim postići sinergiju</text-style>
+            </text>
+            <text-style-def id="ts0_1">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="41/5s" lane="1" name="između unutarnje i vanjske politike&#xA;i sigurnosti. I želim ovu godinu obilježiti" offset="183/5s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_2">između unutarnje i vanjske politike
+i sigurnosti. I želim ovu godinu obilježiti</text-style>
+            </text>
+            <text-style-def id="ts0_2">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="679/100s" lane="1" name="inicijativama koje ću pomagati Vladi&#xA;Republike Hrvatske i Hrvatskom saboru" offset="4557/100s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_3">inicijativama koje ću pomagati Vladi
+Republike Hrvatske i Hrvatskom saboru</text-style>
+            </text>
+            <text-style-def id="ts0_3">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="543/100s" lane="1" name="suočavanju s problemima s kojima se&#xA;suočava hrvatsko društvo." offset="5361/100s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_4">suočavanju s problemima s kojima se
+suočava hrvatsko društvo.</text-style>
+            </text>
+            <text-style-def id="ts0_4">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="823/100s" lane="1" name="O tome sam rekla i naravno istražiti institucije.&#xA;Mislim da bi bilo nekorektno" offset="3501/50s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_5">O tome sam rekla i naravno istražiti institucije.
+Mislim da bi bilo nekorektno</text-style>
+            </text>
+            <text-style-def id="ts0_5">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="589/100s" lane="1" name="govoriti o savjetnicima u njihovo ime.&#xA;Jesu li vaši savjetnici rušili premijera" offset="783/10s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_6">govoriti o savjetnicima u njihovo ime.
+Jesu li vaši savjetnici rušili premijera</text-style>
+            </text>
+            <text-style-def id="ts0_6">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+          <caption duration="887/100s" lane="1" name="i pripremali teren za preuzimanje HDZ a.&#xA;O tome rekla" offset="2106/25s" start="3600s" role="ITT?captionFormat=ITT.hr-HR">
+            <text placement="bottom">
+              <text-style ref="ts0_7">i pripremali teren za preuzimanje HDZ a.
+O tome rekla</text-style>
+            </text>
+            <text-style-def id="ts0_7">
+              <text-style backgroundColor="0 0 0 1" font=".SF NS Text" fontColor="1 1 1 1 " fontFace="Regular" fontSize="13"/>
+            </text-style-def>
+          </caption>
+        </asset-clip>
+      </spine>
+    </sequence>
+  </project>
+</fcpxml>

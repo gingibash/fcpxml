@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE fcpxml>
 
-<!--automatski se ubaci mp4 referentne kobasice-->
-
 <fcpxml version="1.8">
 	<resources>
 
@@ -31,32 +29,32 @@
 
 	<!-- library odjebavamo, krećemo od eventa jer prilikom finalnog importa u fcpx želimo biti u montažerovom libraryiju i dirati samo naše evente-->
 
-	<!--<library location="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/">-->
-	<!--<event name="27-03-2019" uid="D55553DE-F7DB-4EF5-AE48-928B8886DDFF">-->
-	<!--<project name="kobasica" uid="AECC796F-E48D-43EE-83C1-689C3358716C" modDate="2019-03-27 12:34:50 +0100">-->
-	<!--<sequence duration="306000/2500s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">-->
-	<!--<spine>-->
-	<!--<ref-clip name="kobasica Clip" offset="0s" ref="r2" duration="306000/2500s"/>-->
-	<!--</spine>-->
-	<!--</sequence>-->
-	<!--</project>-->
-	<!--</event>-->
+	<!--<library location="file:///Users/bgz/Documents/My%20Documents/02-Projects/fcpx-xml/BGz.fcpbundle/">
+	<event name="27-03-2019" uid="D55553DE-F7DB-4EF5-AE48-928B8886DDFF">
+	<project name="kobasica" uid="AECC796F-E48D-43EE-83C1-689C3358716C" modDate="2019-03-27 12:34:50 +0100">
+	<sequence duration="306000/2500s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+	<spine>
+	<ref-clip name="kobasica Clip" offset="0s" ref="r2" duration="306000/2500s"/>
+	</spine>
+	</sequence>
+	</project>
+	</event>
 
-	<!--<smart-collection name="Projects" match="all">-->
-	<!--<match-clip rule="is" type="project"/>-->
-	<!--</smart-collection>-->
-	<!--<smart-collection name="All Video" match="any">-->
-	<!--<match-media rule="is" type="videoOnly"/>-->
-	<!--<match-media rule="is" type="videoWithAudio"/>-->
-	<!--</smart-collection>-->
-	<!--<smart-collection name="Audio Only" match="all">-->
-	<!--<match-media rule="is" type="audioOnly"/>-->
-	<!--</smart-collection>-->
-	<!--<smart-collection name="Stills" match="all">-->
-	<!--<match-media rule="is" type="stills"/>-->
-	<!--</smart-collection>-->
-	<!--<smart-collection name="Favorites" match="all">-->
-	<!--<match-ratings value="favorites"/>-->
-	<!--</smart-collection>-->
-	<!--</library>-->
+	<smart-collection name="Projects" match="all">
+	<match-clip rule="is" type="project"/>
+	</smart-collection>
+	<smart-collection name="All Video" match="any">
+	<match-media rule="is" type="videoOnly"/>
+	<match-media rule="is" type="videoWithAudio"/>
+	</smart-collection>
+	<smart-collection name="Audio Only" match="all">
+	<match-media rule="is" type="audioOnly"/>
+	</smart-collection>
+	<smart-collection name="Stills" match="all">
+	<match-media rule="is" type="stills"/>
+	</smart-collection>
+	<smart-collection name="Favorites" match="all">
+	<match-ratings value="favorites"/>
+	</smart-collection>
+	</library>-->
 </fcpxml>

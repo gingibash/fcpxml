@@ -1,0 +1,138 @@
+<!--nastavak-->
+
+<event name="avs_event_name">
+	<project name="avs_project_name" modDate="2019-03-27 14:30:46 +0100">
+
+		<!--
+		duration 	zbroj trajanja svih elemenata
+		format		referira se na id formata iz <resources>
+		-->
+		<sequence duration="1891000/25000s" format="r1" tcStart="0s" audioLayout="stereo" audioRate="48k">
+			<spine>
+
+				<!--
+				offset		prvi element kreće od 0
+				ref			referenca na element u <resources>
+				duration	trajanje u sekundama (out_frame - in frame) / frame_rate
+							out_frame = to_millisecond / 1000 * 25
+							in_frame = from_millisecond / 1000 * 25
+				start		vrijeme u sekundama - in_frame / frame_rate
+				-->
+				<asset-clip name="clip-1" offset="0s" ref="r2" duration="41000/25000s" start="1697138000/25000s">
+
+					<!--
+					name
+					lane	kreće od 1 i da ima neki drugi <title> ili <effect> išli bi u lane 2,3,..
+					offset	je početno vrijeme parent elementa, u ovom slučaju <asset-clip>, lokalno vrijeme
+					ref		referira se na <resources><effect>
+					-->
+					<title name="ovdje slažu scenu" lane="1" offset="1697138/25s" ref="r3" duration="4100/2500s" start="3600s">
+						<!--
+							param name i key se nalaze unutar .moti fajlova, vidi <resources><effect>
+						-->
+						<!--
+						id				unique id
+						name			samo kopiraš, za sada
+						key				samo kopiraš, za sada
+						value			koordinate unutar framea
+						-->
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+						<text>
+							<text-style ref="ts1">ovdje slažu scenu</text-style>
+						</text>
+						<text-style-def id="ts1">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</asset-clip>
+
+				<!--
+				name
+				offset		offset prethodnog elementa u <spine> + duration prethodnog elemeta
+				-->
+				<gap name="Gap" offset="41000/25000s" duration="3s" start="3600s">
+					<title name="ovdje slažu scenu" lane="1" offset="3600s" ref="r3" duration="3s" start="3600s">
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<text>
+							<text-style ref="ts2">ovdje slažu scenu
+							</text-style>
+						</text>
+						<text-style-def id="ts2">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</gap>
+				<asset-clip name="clip-2" offset="116000/25000s" ref="r4" duration="2400/2500s" start="169737700/2500s" audioRole="dialogue" tcFormat="NDF">
+					<title name="ovdje slažu scenu" lane="1" offset="1697377/25s" ref="r3" duration="2400/2500s" start="3600s">
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<text>
+							<text-style ref="ts3">ovdje slažu scenu
+							</text-style>
+						</text>
+						<text-style-def id="ts3">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</asset-clip>
+				<gap name="Gap" offset="140000/25000s" duration="3s" start="3600s">
+					<title name="ovdje slažu scenu" lane="1" offset="3600s" ref="r3" duration="3s" start="3600s">
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<text>
+							<text-style ref="ts4">ovdje slažu scenu
+							</text-style>
+						</text>
+						<text-style-def id="ts4">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</gap>
+				<asset-clip name="clip-3" offset="215000/25000s" ref="r5" duration="137300/2500s" start="169754900/2500s" audioRole="dialogue" tcFormat="NDF">
+					<title name="ovdje slažu scenu" lane="1" offset="1697549/25s" ref="r3" duration="137300/2500s" start="3600s">
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<text>
+							<text-style ref="ts5">ovdje slažu scenu
+							</text-style>
+						</text>
+						<text-style-def id="ts5">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</asset-clip>
+				<gap name="Gap" offset="1588000/25000s" duration="3s" start="3600s">
+					<title name="ovdje slažu scenu" lane="1" offset="3600s" ref="r3" duration="3s" start="3600s">
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<text>
+							<text-style ref="ts6">ovdje slažu scenu
+							</text-style>
+						</text>
+						<text-style-def id="ts6">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</gap>
+				<asset-clip name="clip-4" offset="1663000/25000s" ref="r6" duration="22800/2500s" start="1699970000/25000s" audioRole="dialogue" tcFormat="NDF">
+					<title name="ovdje slažu scenu" lane="1" offset="339994/5s" ref="r3" duration="22800/2500s" start="3600s">
+						<param name="Position" key="9999/999166631/999166633/1/100/101" value="-904.147 -324"/>
+						<param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+						<text>
+							<text-style ref="ts7">ovdje slažu scenu
+							</text-style>
+						</text>
+						<text-style-def id="ts7">
+							<text-style font="Helvetica" fontSize="63" fontFace="Regular" fontColor="0.999993 1 1 1"/>
+						</text-style-def>
+					</title>
+				</asset-clip>
+			</spine>
+		</sequence>
+	</project>
+</event>
+
+		</fcpxml>
